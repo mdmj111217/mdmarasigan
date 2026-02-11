@@ -1,3 +1,4 @@
+[日本語 (Japanese)](README.ja.md)
 # Mark Darwin D. Marasigan
 ### Software Engineer | Web Developer
 📍 Yokohama, Kanagawa, Japan | 📧 markdarwin.marasigan@gmail.com | 🔗 [LinkedIn](://www.linkedin.com/in/mark-darwin-marasigan-9259311b4)
