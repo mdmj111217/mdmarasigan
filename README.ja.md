@@ -1,3 +1,4 @@
+[English](README.md)
 # マラシガン・マークダーウィン (Mark Darwin D. Marasigan)
 ### ソフトウェアエンジニア | Webデベロッパー
 📍 神奈川県横浜市 | 📧 [markdarwin.marasigan@gmail.com](mailto:markdarwin.marasigan@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com)
