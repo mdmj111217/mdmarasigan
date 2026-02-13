@@ -14,9 +14,9 @@
 
 | カテゴリ | スキル |
 | :--- | :--- |
-| **バックエンド** | Java, Kotlin, C#.Net, ASP.Net, JSP |
-| **フロントエンド** | Angular, HTML5, CSS3, TypeScript, JavaScript, Bootstrap |
-| **フレームワーク** | Node.js, Spring, .NET |
+| **バックエンド** | Java, Kotlin, C#.Net, JSP, JUnit |
+| **フロントエンド** | HTML5, CSS3, TypeScript, JavaScript |
+| **フレームワーク / ライブラリ** | Node.js, Spring, ASP.NET, Angular, Bootstrap |
 | **データベース** | MySQL, Oracle, Microsoft SQL Server, PostgreSQL |
 | **ツール** | IntelliJ IDEA, Eclipse, VS Code, Git, Redmine, Visual Studio |
 | **言語** | 日本語、英語、フィリピン語 |
