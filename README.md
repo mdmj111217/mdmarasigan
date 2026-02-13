@@ -14,9 +14,9 @@ I am a dedicated **Software Engineer** with over a decade of experience across J
 
 | Category | Skills |
 | :--- | :--- |
-| **Backend** | Java, Kotlin, C#.Net, ASP.Net, JSP |
-| **Frontend** | Angular, HTML5, CSS3, TypeScript, JavaScript, Bootstrap |
-| **Framework** | Node.js, Spring, .NET |
+| **Backend** | Java, Kotlin, C#.Net, JSP, JUnit |
+| **Frontend** | HTML5, CSS3, TypeScript, JavaScript |
+| **Framework / Libraries** | Node.js, Spring, ASP.NET, Angular, Bootstrap |
 | **Databases** | MySQL, Oracle, Microsoft SQL Server, PostgreSQL |
 | **Tools** | IntelliJ IDEA, Eclipse, VS Code, Git, Redmine, Microsoft Visual Studio |
 | **Languages** | English, Japanese, Filipino |
